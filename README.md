@@ -12,10 +12,6 @@ And then execute:
 
     $ bundle
 
-Add `jquery-form-validator-rails` to your Gemfile and run `bundle install`:
-
-    gem "jquery-form-validator-rails"
-
 ### Include jquery.form-validator-rails javascript assets
 
 Add the following to your `app/assets/javascripts/application.js`:
